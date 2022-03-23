@@ -8,6 +8,8 @@ public class HomeController {
 	
 	@RequestMapping("/")
 	public String pre() {
+		System.out.println("git change");
+		
 		
 		return "Welcome";
 	}
