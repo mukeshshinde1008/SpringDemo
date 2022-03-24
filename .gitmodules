@@ -1,0 +1,3 @@
+[submodule "SpringDemo"]
+	path = SpringDemo
+	url = https://github.com/mukeshshinde1008/SpringDemo.git
